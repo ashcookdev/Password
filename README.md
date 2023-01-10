@@ -31,10 +31,8 @@ When loading the page you will be asked how long you want your password to be fo
 This can be used to create new passwords.
 
 ## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+If you have any issues please contact me at ashleycook@mail.com
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
 
 ## Contributing
 No contributions needed.
