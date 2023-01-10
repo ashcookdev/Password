@@ -1,14 +1,13 @@
 # Password Generator
 
-# Console-Finances
 
 ## Name
-Console-Finances
+Password Generator 
 
-https://ashcookdev.github.io/Console-Finances/
+https://ashcookdev.github.io/Password/
 
 ## Description
-This is a challenge where we have been asked to analyse financial data using javascript and to present our findings in the console in the browser.
+This is a challenge where we have been asked to analyse  javascript and to present our findings in the console in the browser.
 
 ## Badges
 No badge required
@@ -16,8 +15,7 @@ No badge required
 ## Visuals
 Please see a screenshot of the console
 
-![image](https://user-images.githubusercontent.com/117311931/210091039-c890fbd1-f7ee-4dcc-83cf-74bc3208e23f.png)
-
+![image](https://user-images.githubusercontent.com/117311931/211580994-76711228-036e-4078-bbc1-343fcd511367.png)
 
 ## Installation
 When loading the browser please right click and select the inspect option, there you will find the console and the information for the challenge will be there.
