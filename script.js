@@ -1,5 +1,5 @@
 let characters = prompt('How many characters long would you like your password?');
-
+alert('Will provide you with a password including uppercase, lowercase letters,numbers and special characters')
 
 
 
